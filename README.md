@@ -1,11 +1,11 @@
 # HTML Projects – Event Page & EMC Webpage
 
 Welcome to the **HTML Projects** repository! 🎉  
-This repository contains two complete HTML projects designed to help you understand the fundamentals of HTML step by step. Both projects will give you hands-on practice with essential HTML elements and page structuring.
+This repository contains two complete HTML projects designed to help to understand the fundamentals of HTML step by step. Both projects will give you hands-on practice with essential HTML elements and page structuring.
 
 ---
 
-## 📌 Project 1: Event Page (`event_page/`)
+## 📌 Project 1: Event Page:
 
 In the first project, I built an **Event Page** that covers the basic and most commonly used HTML components.  
 You will learn how to use:
@@ -19,11 +19,11 @@ You will learn how to use:
 
 By the end of this project, you’ll know how to structure a clean HTML page and create an appealing **Event Page**.
 
-🔗 **Live Project 1:** [Event Page](https://your-username.github.io/html_projects/event_page/)
+🔗 **Live Project 1:** [Event Page](https://divyadharshinee.neocities.org/event_page/event)
 
 ---
 
-## 📌 Project 2: EMC Webpage (`emc_webpage/`)
+## 📌 Project 2: EMC Webpage:
 
 The second project focuses on **Tables and Forms**, essential components in web development.  
 You will learn how to use:
@@ -37,7 +37,7 @@ You will learn how to use:
 
 By the end of this project, you’ll be comfortable creating structured tables and interactive forms to collect user input.
 
-🔗 **Live Project 2:** [EMC Webpage](https://your-username.github.io/html_projects/emc_webpage/)
+🔗 **Live Project 2:** [EMC Webpage](https://divyadharshinee.neocities.org/EMC%20Webpage/)
 
 ---
 
