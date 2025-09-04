@@ -19,7 +19,7 @@ You will learn how to use:
 
 By the end of this project, you’ll know how to structure a clean HTML page and create an appealing **Event Page**.
 
-🔗 **Live Project 1:** [Event Page](https://divyadharshinee.neocities.org/event_page/event)
+🔗 **Live Project 1:** [Event Page](https://divyadharshinee.github.io/HTML-Projects/Project%201%20-%20Event%20Page/)
 
 ---
 
@@ -37,7 +37,7 @@ You will learn how to use:
 
 By the end of this project, you’ll be comfortable creating structured tables and interactive forms to collect user input.
 
-🔗 **Live Project 2:** [EMC Webpage](https://divyadharshinee.neocities.org/EMC%20Webpage/)
+🔗 **Live Project 2:** [EMC Webpage](https://divyadharshinee.github.io/HTML-Projects/Project%202%20-%20EMC%20Web%20Page%20HTML/)
 
 ---
 
